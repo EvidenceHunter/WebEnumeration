@@ -12,7 +12,7 @@ This shell script is a simple yet effective tool for harvesting and filtering su
 
 ## Usage
 ```bash
-./subdomain_recon.sh [options] <domain>
+./assetFinDir.sh [options] <domain>
 ```
 
 Options
@@ -23,7 +23,7 @@ Options
 
 Example
 ```bash
-./subdomain_recon.sh example.com
+./assetFinDir.sh example.com
 ```
 
 This will:
